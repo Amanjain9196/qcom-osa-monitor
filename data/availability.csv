@@ -1,0 +1,13 @@
+date,platform,city,sku,available
+2026-08-10,QCom-A,Mumbai,SKU-101,1
+2026-08-10,QCom-A,Mumbai,SKU-202,0
+2026-08-10,QCom-A,Bengaluru,SKU-101,1
+2026-08-10,QCom-A,Bengaluru,SKU-202,1
+2026-08-10,QCom-B,Mumbai,SKU-101,0
+2026-08-10,QCom-B,Mumbai,SKU-202,1
+2026-08-11,QCom-A,Mumbai,SKU-101,1
+2026-08-11,QCom-A,Mumbai,SKU-202,0
+2026-08-11,QCom-A,Bengaluru,SKU-101,1
+2026-08-11,QCom-A,Bengaluru,SKU-202,1
+2026-08-11,QCom-B,Mumbai,SKU-101,0
+2026-08-11,QCom-B,Mumbai,SKU-202,1
